@@ -1,5 +1,11 @@
-<h1 align="center">Hi 👋, I'm Aritra Sarkar</h1>
-<h3 align="center">A passionate Full Stack Developer from India</h3>
+<p align="" >
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&multiline=true&width=435&lines=Hey%2C+I'm+Aritra+Sarkar+%F0%9F%91%8B" alt="Typing SVG"  />
+  </a>
+</p>
+
+
+<h3 align="">A passionate Full Stack Developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aritras05&label=Profile%20views&color=0e75b6&style=flat" alt="aritras05" /> </p>
 <p><em> IT Undergrad
