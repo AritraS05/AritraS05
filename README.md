@@ -1,16 +1,13 @@
-<p align="" >
+<h1 align="center" >
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&multiline=true&width=435&lines=Hey%2C+I'm+Aritra+Sarkar+%F0%9F%91%8B" alt="Typing SVG"  />
   </a>
-</p>
+</h1>
 
 
-<h3 align="">A passionate Full Stack Developer from India</h3>
+<h3 align="center">A passionate Full Stack Developer from India</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=aritras05&label=Profile%20views&color=0e75b6&style=flat" alt="aritras05" /> </p>
-<p><em> IT Undergrad
-</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
-</em></p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=aritras05&label=Profile%20views&color=0e75b6&style=flat" alt="aritras05" /> </p>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AritraS05/AritraS05/output/github-snake-dark.svg" />
@@ -54,7 +51,9 @@ const aritra = {
 };
 ```
 
-<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> 😊</em>
+<div align="center">
+  <img src="https://github.com/EliasAfara/EliasAfara/assets/39487200/23007ae3-8ef7-4957-a5a5-6d78efe02c03" alt="rolling-dragon-gif" height="130" />
+</div>
 
 ---
 
